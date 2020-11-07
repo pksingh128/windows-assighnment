@@ -1,0 +1,57 @@
+/*index  FILE STYLING*/
+.nav-back {
+    border:silver 1px double;
+    margin-top: 10px;
+}
+.nav-head {
+    margin: auto;
+    letter-spacing: 5px;
+}
+.box {
+    background-color: rgb(50, 250, 0);
+    padding: 100px;
+    text-align: center;
+    margin:20px;
+}
+.box:hover {
+    border-radius: 200px;
+}
+.blog-footer {
+    margin-top: 50px;
+    height: 50px;
+    text-align: center;
+}
+.box:hover {
+    border:grey 2px solid;
+}
+/*HTML FILE STYLING*/
+.tim {
+    float: left;
+    border: black 2px solid;
+    margin: 20px;
+    padding: 2px;
+    text-align: center;
+    font-style: italic;
+}
+.info {
+    margin: 20px;
+}
+.content-head {
+    background-color: rgb(108, 212, 203);
+    text-align: center;
+    max-width: 700px;
+    margin:auto;
+}
+.html-content {
+    text-indent: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.cs-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
